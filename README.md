@@ -8,4 +8,4 @@ BEM methodology
 Responsiveness and cross-browser
 Links
 
-    - [DEMO LINK](https://grechana.github.io/bose-landing-page/)
+ - [DEMO LINK]([https://grechana.github.io/bose-landing-page/](https://grechana.github.io/bose-landing-page/))
