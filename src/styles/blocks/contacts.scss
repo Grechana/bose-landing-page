@@ -4,7 +4,7 @@
 
     &--first {
       margin-top: 64px;
-      
+
       @include onDesktop {
         margin-top: 0;
       }
@@ -28,12 +28,11 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 22px;
-    color: #3e3e3e;
+    color: #5f5d5d;
 
     &:hover {
-      font-size: 17px;
       color: black;
-      background-color: #f8f8faba;
+      transition: all 0.5s;
     }
   }
 
