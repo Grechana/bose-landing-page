@@ -11,4 +11,4 @@ To create this landing page, I have used following technology and approaches:
 
    [DEMO LINK](https://grechana.github.io/bose-landing-page/)
   
-   [Figma design](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&mode=design)
+   [Figma design](https://www.figma.com/file/DNbiXtkUmo7A3k5FqZpZyq/BOSE?type=design&mode=design)
