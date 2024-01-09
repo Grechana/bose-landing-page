@@ -10,8 +10,9 @@
   background-color: #292929;
   border-radius: 40px;
   line-height: 27px;
-  transition: all 0.5s;
+  transition: all 1.5s;
   cursor: pointer;
+  border: none;
 
   &:hover {
     background-color: #e5e5e5;
