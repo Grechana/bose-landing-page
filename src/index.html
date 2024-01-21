@@ -7,13 +7,22 @@
     <link
     rel="shortcut icon"
     type="image/x-icon"
-    href="../src/images/Soundwaves.png"
+    href="../src/images/Soundwaves.svg"
     >
     <link rel="stylesheet" href="./styles/main.scss">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" >
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap" rel="stylesheet">
     <script src="scripts/main.js" defer></script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        let contactForm = document.querySelector('form[action="#"]');
+
+        contactForm.addEventListener('submit', function (event) {
+          event.preventDefault();
+        });
+      });
+    </script>
   </head>
   <body class="page__body ">
     <header class="header page__section" >
@@ -23,7 +32,7 @@
             <a href="#" class="logo">
               <img
               class="logo__image"
-              src="images/logo.png"
+              src="images/Logo.svg"
               alt="bose">
             </a>
             <div class="header__nav-logos">
@@ -53,7 +62,7 @@
             <a href="#" class="logo">
               <img
               class="logo__image"
-              src="images/logo.png"
+              src="images/Logo.svg"
               alt="bose">
             </a>
 

@@ -31,8 +31,8 @@
     width: 100%;
     object-fit: cover;
     object-position: center;
-    transition: all 2s;
-    
+    transition: all 300ms;
+
     &:hover {
       border-radius: 20%;
       transform: scale(0.9, 1);

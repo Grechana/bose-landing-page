@@ -62,7 +62,7 @@
         background-size: contain;
         background-position: top;
         padding-bottom: 32px;
-        background-image: url(../images/Soundwaves.png);
+        background-image: url(../images/Soundwaves.svg);
       }
 
       @include onTablet {
@@ -71,7 +71,7 @@
         background-size: contain;
         background-position: top;
         padding-bottom: 40px;
-        background-image: url(../images/Soundwaves.png);
+        background-image: url(../images/Soundwaves.svg);
       }
     }
   }

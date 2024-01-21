@@ -18,22 +18,22 @@
   }
 
   &--menu {
-    background-image: url(../images/menu.png);
+    background-image: url(../images/menu.svg);
     margin-left: 30px;
 
     @include onDesktop {
       &:hover {
-        background-image: url(../images/menu1.png);
+        background-image: url(../images/menu1.svg);
       }
     }
   }
 
   &--phone {
-    background-image: url(../images/phone.png);
+    background-image: url(../images/phone.svg);
   }
 
   &--close {
-    background-image: url(../images/esc.png);
+    background-image: url(../images/esc.svg);
   }
 
   &__tooltip {
